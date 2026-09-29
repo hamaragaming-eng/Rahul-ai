@@ -1,0 +1,6 @@
+{
+  "name": "Rahul AI",
+  "description": "Advanced AI Voice Assistant & Smart Home System Controller",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
